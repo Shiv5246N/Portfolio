@@ -23,5 +23,3 @@ This portfolio includes:
 - Clean layout with a professional look
 - Buttons linked to relevant social platforms and roles
 
-## 📁 Project Structure
-
