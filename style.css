@@ -1,0 +1,70 @@
+  body{
+    /*background: linear-gradient(to bottom, #000000, #0f2027, #2c5364);*/
+    /*background-color: #222222;*/
+    background: linear-gradient(to bottom, #043f3b, #066e6e, #0a9396);
+  }
+  .Container{
+    display:flex;
+    background-color: #006d5b;
+    /*background-color: #444;*/
+    flex-direction: column;
+    margin:0 auto;
+    max-width: 400px;
+    border-radius: 8px;
+    box-shadow: 0 0 15px;
+  }
+  .photo1{
+      border-radius: 150px;
+      display: flex;
+      width: 150px;
+      margin: auto;
+      height: 150px;
+      padding: 10px;
+  }
+  .text1{
+  text-align: center;
+  margin:auto;
+  display: block;
+  font-weight: bold;
+  color: white;
+  padding:0;
+  font-size: 32px;
+  }
+  .text2{
+    text-align: center;
+  margin:auto;
+  color:#c5f82a;
+  padding:0;
+  font-size: 24px;
+  }
+  .text3{
+  text-align: center;
+  margin:auto;
+  padding:0;
+  color: white;
+  font-size: 21px;
+  }
+  .Button-text {
+    display: flex;
+    flex-direction: column;
+    margin: 8px 0;
+  }
+  .Button1,.Button2,.Button3,.Button4,.Button5{
+    background-color: #1A453b;
+    /*background-color: #333;*/
+    color: white;
+    border: none;
+    padding: 8px;
+    margin: 5px 30px;
+    font-size: 17px;
+    border-radius: 10px;
+  }
+  .Button1:hover{
+    background: linear-gradient(to bottom, #043f3b, #066e6e, #0a9396);
+    color:white;
+    /*background-color: #c5f82a;
+    color:black;*/
+/*background-color: #00ffd5;
+  color: #0f2027;*/
+  cursor:pointer;
+  }
